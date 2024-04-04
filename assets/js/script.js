@@ -17,14 +17,14 @@ accordionToggle.forEach((toggle, index) => {
       );
       accordionCollapse[currentlyOpenIndex].classList.remove("active");
       accordionToggleIcon[currentlyOpenIndex].src =
-        "/assets/images/icon-plus.svg";
+        "./assets/images/icon-plus.svg";
     }
 
     if (!isExpanded) {
       // Open the clicked accordion
       toggle.setAttribute("aria-expanded", "true");
       accordionCollapse[index].classList.add("active");
-      accordionToggleIcon[index].src = "/assets/images/icon-minus.svg";
+      accordionToggleIcon[index].src = "./assets/images/icon-minus.svg";
       currentlyOpenIndex = index; // Update the currently open accordion
     } else {
       currentlyOpenIndex = -1; // No accordion is open
