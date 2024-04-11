@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- **Solution:** [Add solution URL here](https://your-solution-url.com)
-- **Live Site:** [Add live site URL here](https://your-live-site-url.com)
+- **Solution:** [Frontend Mentor: FAQ accordion](https://www.frontendmentor.io/solutions/faq-accordion-O-TPnRDxS5)
+- **Live Site:** [https://fem-faq-accordion-card.pages.dev](https://fem-faq-accordion-card.pages.dev)
 
 ## Author
 
